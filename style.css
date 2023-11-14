@@ -13,6 +13,30 @@ header {
     text-align: center;
     padding: 10px;
     margin: 0px;
+    font-family: Agbalumo;
+}
+
+.card {
+    font-size: 22px;
+    text-align: center;
+    font-family: Lobster;
+    background-image: url(image/主頁.jpg);
+    background-size: cover;
+}
+
+.pp {
+    text-align: center;
+}
+
+.data {
+    font-size: 20px;
+    font-family: 微軟正黑體;
+    text-align: center;
+}
+
+.card1 {
+    background-image: url(image/page1.jpg);
+    background-size: cover;
 }
 
 footer {
